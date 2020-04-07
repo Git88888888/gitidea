@@ -9,6 +9,11 @@ public class GitTest {
         System.out.println("git");
         System.out.println("git");
         show();
+        show1();
+    }
+
+    private static void show1() {
+        System.out.println("11111111");
     }
 
     private static void show() {
